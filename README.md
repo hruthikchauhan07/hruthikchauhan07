@@ -1,5 +1,17 @@
-# 💫 About Me:
-#About Me :<br>Greetings! 👋🏻<br><br>👨🏻‍🎓I'm Hruthik Chauhan, a passionate and curious student with a deep love for all things in tech.<br>🎓I'm currently pursuing a 3rd year degree in Information Science and Engineering. Am always eager to explore the ever-evolving world of technology.<br>🧿From an early age, I discovered my fascination for computers and tech, I look forward to learn new things and implementing them in real life for shaping up my future.<br><br>#What I Love to Do💻<br>- 😁I eat, code, drive, read novels, do some gaming and stuff. <br>- 🧳I seek for knowledge in all fun activities. Most probably I'm a Wanderlust. <br>- 🐾I'm taking small steps toward mastering the art of coding.<br><br>#What I'm Exploring 👨🏻‍💻<br>- 🔮I'm currently learning the ropes of web development, Ethical Hacking, Data Structures and Algorithms and many more.<br>- 🤖I'm thriving my interest towards IoT projects and some Robotics stuffs as well.<br>- 🌐I'm constantly enrolled in online courses to build my skills, which includes Java, Python, C++, CSS and JavaScript.<br>- 🛠️I've learnt quite a bit knowledge in Programming with C and Python (Still seeking for more).<br>- 😄Since I'm a newbie to this tech world, I'll be sharing my personal projects which I'll be doing hereafter, feel free to learn and join me to reach the surface of the success.
+# About Me  
+Hi there! 👋🏻  
+I'm **Hruthik Chauhan**, a 3rd-year student pursuing a degree in Information Science and Engineering. Passionate about tech, I’ve been exploring computers and coding since an early age, constantly eager to learn and innovate.
+
+## What I Love 💻  
+- Coding, reading novels, gaming, and exploring new places.  
+- Seeking knowledge and taking steps toward mastering the art of coding.  
+
+## Current Exploration 👨🏻‍💻  
+- Learning web development, ethical hacking, data structures, algorithms, and robotics.  
+- Thriving in IoT projects while building skills in Java, Python, C++, CSS, and JavaScript.  
+- Enrolled in online courses to expand my expertise in programming.  
+
+📧 **Email:** [hruthikmnaik07@gmail.com](mailto:hruthikmnaik07@gmail.com)
 
 
 ## 🌐 Socials:
