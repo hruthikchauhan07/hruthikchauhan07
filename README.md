@@ -1,6 +1,6 @@
 # About Me  
 Hi there! 👋🏻  
-I'm **Hruthik Chauhan**, a 3rd-year student pursuing a degree in Information Science and Engineering. Passionate about tech, I’ve been exploring computers and coding since an early age, constantly eager to learn and innovate.
+I'm **Hruthik Chauhan**, a penultimate year student pursuing a degree in Information Science and Engineering. Passionate about tech, I’ve been exploring computers and coding since an early age, constantly eager to learn and innovate.
 
 ## What I Love 💻  
 - Coding, reading novels, gaming, and exploring new places.  
